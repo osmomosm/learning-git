@@ -1,1 +1,1 @@
-Print "om"
+Print "om" "kk"
